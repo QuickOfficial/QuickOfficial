@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QuickOfficial
+- 👋 Hi, I’m @James Maina
 - 👀 I’m interested in python,flutter They're both powerful tools for building a wide range of applications.
 - 🌱 I’m currently learning about jss
 - 💞️ I’m looking to collaborate on projects 
